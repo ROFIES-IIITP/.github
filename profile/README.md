@@ -24,7 +24,7 @@ Whether you're a seasoned developer, a student exploring STEM, or someone with a
 
 ## Contribution Guidelines 🤝
 
-We welcome contributions from everyone! Before contributing to our projects, please take a look at our [Contribution Guidelines](CONTRIBUTING.md) to make sure that your contributions align with our goals and standards.
+We welcome contributions from everyone! Before contributing to our projects, please take a look at our [Contribution Guidelines](CONTRIBUTION.md) to make sure that your contributions align with our goals and standards.
 
 ## Contact Us 📧
 
