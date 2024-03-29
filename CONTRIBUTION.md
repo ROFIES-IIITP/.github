@@ -1,13 +1,13 @@
 # Contribution Guidelines 🤝
 
-Thank you for considering contributing to our project! Together, we can make this project even better. Please take a moment to review the following guidelines before making your contribution.
+Thank you for considering contributing to our repository! Together, we can make this repository even better. Please take a moment to review the following guidelines before making your contribution.
 
 ## Ways to Contribute 🚀
 
 There are many ways to contribute to our project:
 
 - 💡 **Feature Requests**: Have an idea for a new feature? Submit a feature request by opening an issue and describing your idea in detail.
-- 🐛 **Bug Reports**: Encountered a bug? Report it by opening an issue and providing information about the bug, including steps to reproduce it.
+- 🐛 **Bug Reports**: Encountered a bug? Report it by opening an issue and providing information about the bug, including reproducing steps.
 - 📖 **Documentation Improvements**: Found a typo or error in the documentation? Submit a pull request with your proposed changes to improve the documentation.
 - 🛠️ **Code Contributions**: Want to contribute code? Fork the repository, make your changes, and submit a pull request. Be sure to follow the coding standards and conventions used in the project.
 
@@ -40,5 +40,6 @@ git push origin feature/new-feature
 
 9. **Review and Collaborate**: Participate in code reviews and address any feedback or comments provided by the maintainers or other contributors.
 
+You can always refer to the previous contributions made by other users.<br>
 Thank you for your contributions! 🎉
 
