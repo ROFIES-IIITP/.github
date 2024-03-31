@@ -1,5 +1,11 @@
 # Welcome to ROFIES (Robotics, Open-Source, and Fun Innovation in Engineering and Sciences)! 🤖✨
 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 ROFIES is a community-driven organization promoting innovation, collaboration, and learning in robotics, open-source software, and engineering sciences.
 
 ## About Us ℹ️
