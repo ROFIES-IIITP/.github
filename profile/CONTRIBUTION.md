@@ -1,6 +1,6 @@
 # Contribution Guidelines 🤝
 
-Thank you for considering contributing to our project! Together, we can make this project even better. Please take a moment to review the following guidelines before making your contribution.
+Thank you for considering contributing to our projects! Together, we can make the project even better. Please take a moment to review the following guidelines before making your contribution.
 
 ## Ways to Contribute 🚀
 
@@ -22,7 +22,7 @@ There are many ways to contribute to our project:
 git checkout -b feature/new-feature
 ```
 
-4. **Make Changes**: Make your desired changes to the codebase. Ensure that your changes adhere to the project's coding style and conventions.
+4. **Make Changes**: Make your desired changes to the codebase. Make sure your changes adhere to the project's coding style and conventions.
 
 5. **Test Changes**: Test your changes thoroughly to ensure they work as expected and do not introduce any regressions.
 
