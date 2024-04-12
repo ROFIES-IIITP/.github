@@ -8,7 +8,7 @@
 
 ROFIES is a community-driven organization promoting innovation, collaboration, and learning in robotics, open-source software, and engineering sciences.
 
-## About Us ℹ️
+## ℹ️ About Us
 
 At ROFIES, we believe in the power of open-source collaboration to drive innovation and solve real-world problems. Our community consists of passionate individuals from diverse backgrounds who share a common interest in technology and making a positive impact on society.
 
