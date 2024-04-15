@@ -39,5 +39,6 @@ If you have any questions, suggestions, or feedback, please don't hesitate to re
 - **Email**: [rofies@iiitp.ac.in](mailto:rofies@iiitp.ac.in)
 - **Discord**: [Join our Discord server](https://discord.com/invite/qyKa8FP37c)
 - **Instagram** : [Follow Us](https://www.instagram.com/rofies_iiitp)
+- **LinkedIn** : [Follow Us](https://www.linkedin.com/in/rofies-iiitp-b61a35302/)
 
 Thank you for your interest in ROFIES! Together, we can make a difference in the world of robotics and engineering. 🌍💡
