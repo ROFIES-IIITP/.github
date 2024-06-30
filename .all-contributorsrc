@@ -27,7 +27,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/123854877?v=4",
       "profile": "https://my-super-awesome-portfolio.vercel.app/",
       "contributions": [
-        "code"
+        "code",
+        "mentoring",
+        "talk"
       ]
     }
   ],
