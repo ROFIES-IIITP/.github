@@ -1,6 +1,6 @@
 {
   "projectName": ".github",
-  "projectOwner": "ROFIES-IIITP",
+  "projectOwner": "deepesh611",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -9,7 +9,19 @@
   "imageSize": 100,
   "commit": false,
   "commitConvention": "atom",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "deepesh611",
+      "name": "Deepesh Patil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123585104?v=4",
+      "profile": "https://github.com/deepesh611",
+      "contributions": [
+        "doc",
+        "projectManagement"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
-  "linkToUsage": false
+  "linkToUsage": false,
+  "commitType": "docs"
 }
