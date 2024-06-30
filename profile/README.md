@@ -5,10 +5,9 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
 ROFIES is a community-driven organization promoting innovation, collaboration, and learning in robotics, open-source software, and engineering sciences.
 
-## ℹ️ About Us
+## About Us ℹ️
 
 At ROFIES, we believe in the power of open-source collaboration to drive innovation and solve real-world problems. Our community consists of passionate individuals from diverse backgrounds who share a common interest in technology and making a positive impact on society.
 
@@ -30,7 +29,7 @@ Whether you're a seasoned developer, a student exploring STEM, or someone with a
 
 ## Contribution Guidelines 🤝
 
-We welcome contributions from everyone! Before contributing to our projects, please take a look at our [Contribution Guidelines](CONTRIBUTION.md) to make sure that your contributions align with our goals and standards.
+We welcome contributions from everyone! Before contributing to our projects, please take a look at our [Contribution Guidelines](CONTRIBUTING.md) to make sure that your contributions align with our goals and standards.
 
 ## Contact Us 📧
 
@@ -38,7 +37,40 @@ If you have any questions, suggestions, or feedback, please don't hesitate to re
 
 - **Email**: [rofies@iiitp.ac.in](mailto:rofies@iiitp.ac.in)
 - **Discord**: [Join our Discord server](https://discord.com/invite/qyKa8FP37c)
-- **Instagram** : [Follow Us](https://www.instagram.com/rofies_iiitp)
-- **LinkedIn** : [Follow Us](https://www.linkedin.com/in/rofies-iiitp-b61a35302/)
+- **Instagram** : [Connect with Us](https://www.instagram.com/rofies_iiitp)
 
 Thank you for your interest in ROFIES! Together, we can make a difference in the world of robotics and engineering. 🌍💡
+
+---
+
+# **<center>✨Our Community ✨</center>**
+
+## *<center>Core Members</center>*
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/deepesh611"><img src="https://avatars.githubusercontent.com/u/123585104?v=4?s=100" width="100px;" alt="Deepesh Patil"/><br /><sub><b>Deepesh Patil</b></sub></a><br /><a href="https://github.com/ROFIES-IIITP/.github/commits?author=deepesh611" title="Documentation">📖</a> <a href="#projectManagement-deepesh611" title="Project Management">📆</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://my-super-awesome-portfolio.vercel.app/"><img src="https://avatars.githubusercontent.com/u/123854877?v=4?s=100" width="100px;" alt="Krish Koria"/><br /><sub><b>Krish Koria</b></sub></a><br /><a href="https://github.com/ROFIES-IIITP/.github/commits?author=KrishKoria" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+---
+
+## *<center>All Members</center>*
+
+<!-- MEMBERS-START -->
+<center>
+<div>
+</div>
+</center>
+<!-- MEMBERS-END -->
