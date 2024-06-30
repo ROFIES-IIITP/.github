@@ -1,6 +1,6 @@
 {
   "projectName": ".github",
-  "projectOwner": "deepesh611",
+  "projectOwner": "ROFIES-IIITP",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -18,6 +18,15 @@
       "contributions": [
         "doc",
         "projectManagement"
+      ]
+    },
+    {
+      "login": "KrishKoria",
+      "name": "Krish Koria",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123854877?v=4",
+      "profile": "https://my-super-awesome-portfolio.vercel.app/",
+      "contributions": [
+        "code"
       ]
     }
   ],
