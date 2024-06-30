@@ -1,45 +1,41 @@
-import os
 import requests
+import os
 
-org_name = os.getenv('ORG_NAME')
-token = os.getenv('GITHUB_TOKEN')
+# GitHub organization name
+org_name = "ROFIES-IIITP"
 
+# GitHub API endpoint to fetch members
+api_url = f"https://api.github.com/orgs/{org_name}/members"
+
+# GitHub Personal Access Token (PAT) for authentication
+github_token = os.getenv("GITHUB_TOKEN")
+
+# Headers with PAT for authentication
 headers = {
-    'Authorization': f'token {token}'
+    "Authorization": f"token {github_token}"
 }
 
-response = requests.get(f'https://api.github.com/orgs/{org_name}/members', headers=headers)
+# Fetch members' data from GitHub API
+response = requests.get(api_url, headers=headers)
 members = response.json()
 
-members_markdown = "<center>\n<div>\n"
-
+# Generate markdown for avatars
+avatars_md = "<center>\n<div>\n"
 for member in members:
-    avatar_url = member['avatar_url']
-    username = member['login']
-    members_markdown += f'<a href="https://github.com/{username}"><img src="{avatar_url}" alt="{username}" width="100" height="100" style="margin: 10px;"></a>\n'
+    avatar_url = member["avatar_url"]
+    username = member["login"]
+    avatars_md += f'<a href="https://github.com/{username}"><img src="{avatar_url}" alt="{username}" width="100" height="100" style="border-radius: 50%; margin: 10px;"></a>\n'
+avatars_md += "</div>\n</center>\n"
 
-members_markdown += "</div>\n</center>\n"
+# Read the README.md content
+with open("README.md", "r", encoding="utf-8") as file:
+    readme_content = file.read()
 
-readme_path = 'README.md'
-with open(readme_path, 'r') as file:
-    readme_content = file.readlines()
+# Replace placeholder with avatars markdown
+readme_content = readme_content.replace("<!-- MEMBERS-START -->\n<center>\n<div>\n</div>\n</center>\n<!-- MEMBERS-END -->", avatars_md)
 
-# Find the placeholder in the README where the members will be inserted
-start_marker = "<!-- MEMBERS-START -->"
-end_marker = "<!-- MEMBERS-END -->"
-start_index = None
-end_index = None
+# Write updated README.md content
+with open("README.md", "w", encoding="utf-8") as file:
+    file.write(readme_content)
 
-for i, line in enumerate(readme_content):
-    if start_marker in line:
-        start_index = i
-    elif end_marker in line:
-        end_index = i
-        break
-
-if start_index is not None and end_index is not None:
-    # Replace the content between the markers
-    readme_content[start_index + 1:end_index] = [members_markdown]
-
-with open(readme_path, 'w') as file:
-    file.writelines(readme_content)
+print("README.md updated with avatars of all members.")
