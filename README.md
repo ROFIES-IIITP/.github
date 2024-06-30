@@ -40,3 +40,24 @@ If you have any questions, suggestions, or feedback, please don't hesitate to re
 - **Instagram** : [Connect with Us](https://www.instagram.com/rofies_iiitp)
 
 Thank you for your interest in ROFIES! Together, we can make a difference in the world of robotics and engineering. 🌍💡
+
+---
+
+# **<center>✨Our Community ✨</center>**
+
+## *<center>Core Members</center>*
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+---
+
+## *<center>All Members</center>*
+
+<!-- MEMBERS-START -->
+<!-- MEMBERS-END -->

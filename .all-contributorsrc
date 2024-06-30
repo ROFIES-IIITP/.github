@@ -1,0 +1,15 @@
+{
+  "projectName": ".github",
+  "projectOwner": "ROFIES-IIITP",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "atom",
+  "contributors": [],
+  "contributorsPerLine": 7,
+  "linkToUsage": false
+}
