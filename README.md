@@ -54,7 +54,7 @@ Thank you for your interest in ROFIES! Together, we can make a difference in the
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/deepesh611"><img src="https://avatars.githubusercontent.com/u/123585104?v=4?s=100" width="100px;" alt="Deepesh Patil"/><br /><sub><b>Deepesh Patil</b></sub></a><br /><a href="https://github.com/ROFIES-IIITP/.github/commits?author=deepesh611" title="Documentation">📖</a> <a href="#projectManagement-deepesh611" title="Project Management">📆</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://my-super-awesome-portfolio.vercel.app/"><img src="https://avatars.githubusercontent.com/u/123854877?v=4?s=100" width="100px;" alt="Krish Koria"/><br /><sub><b>Krish Koria</b></sub></a><br /><a href="https://github.com/ROFIES-IIITP/.github/commits?author=KrishKoria" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://my-super-awesome-portfolio.vercel.app/"><img src="https://avatars.githubusercontent.com/u/123854877?v=4?s=100" width="100px;" alt="Krish Koria"/><br /><sub><b>Krish Koria</b></sub></a><br /><a href="https://github.com/ROFIES-IIITP/.github/commits?author=KrishKoria" title="Code">💻</a> <a href="#mentoring-KrishKoria" title="Mentoring">🧑‍🏫</a> <a href="#talk-KrishKoria" title="Talks">📢</a></td>
     </tr>
   </tbody>
 </table>
