@@ -31,6 +31,7 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
+          git pull
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add README.md
