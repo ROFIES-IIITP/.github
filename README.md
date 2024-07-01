@@ -72,7 +72,6 @@ Thank you for your interest in ROFIES! Together, we can make a difference in the
 
 <!-- MEMBERS-START -->
 <center>
-<div>
-</div>
+<img src="members.png" alt="All Members"/>
 </center>
 <!-- MEMBERS-END -->
