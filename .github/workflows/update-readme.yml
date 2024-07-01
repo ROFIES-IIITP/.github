@@ -37,7 +37,7 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git config --global user.email 'rofies@iiitp.ac.in'
+        git config --global user.email 'github-actions[bot]'
         git config --global user.name 'rofiesiiitp'
         git add .
         git commit -m 'Update members and contributors images'
