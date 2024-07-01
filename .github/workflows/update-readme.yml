@@ -23,13 +23,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests pillow
 
-    - name: Run generate_image.py
+    - name: Run fetch_avatar.py
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         python fetch_avatar.py
 
-    - name: Run generate_contributors_image.py
+    - name: Run generate_image.py
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
