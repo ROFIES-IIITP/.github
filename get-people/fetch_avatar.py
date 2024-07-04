@@ -44,8 +44,13 @@ IMAGE_WIDTH = 800
 IMAGE_HEIGHT = 200
 AVATAR_SIZE = 100
 
+# Calculate the number of members and determine image height dynamically
+num_members = len(avatar_urls)
+num_rows = (num_members - 1) // (IMAGE_WIDTH // AVATAR_SIZE) + 1
+IMAGE_HEIGHT = num_rows * AVATAR_SIZE
+
 # Create a blank image
-image = Image.new('RGB', (IMAGE_WIDTH, IMAGE_HEIGHT), (255, 255, 255))
+image = Image.new('RGB', (IMAGE_WIDTH, IMAGE_HEIGHT), (0, 0, 0))
 
 # Paste avatars onto the image
 x_offset = 0
@@ -59,9 +64,7 @@ for avatar_url in avatar_urls:
     if x_offset >= IMAGE_WIDTH:
         x_offset = 0
         y_offset += AVATAR_SIZE
-    if y_offset >= IMAGE_HEIGHT:
-        break  # Stop if the image height limit is reached
 
 # Save the image
 image.save("members.png")
-print("Composite image of avatars saved as members.png.")
+print(f"Composite image of {num_members} avatars saved as members.png.")
