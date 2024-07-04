@@ -27,7 +27,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        python fetch_avatar.py
+        python ./get-people/fetch_avatar.py
 
     - name: Commit and push changes
       run: |
