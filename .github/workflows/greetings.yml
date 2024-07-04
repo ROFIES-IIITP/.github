@@ -1,0 +1,29 @@
+name: Greetings and Acknowledgments
+
+on:
+  pull_request_target:
+    types: [opened, reopened, edited]
+  issues:
+    types: [opened, edited]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - name: Greet and Acknowledge on issue interaction
+        id: issue_greeting
+        uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: |
+            Hello! 👋
+            Thanks for interacting with this issue. Your contributions are appreciated.
+            Expect a reply or acknowledgment soon!
+          pr-message: |
+            Hi there! 🎉
+            Thanks for working on this pull request. Your efforts are valued.
+            Expect a review or feedback soon!
+          commit-message: "Added greetings and acknowledgments for issue and pull request interactions"
