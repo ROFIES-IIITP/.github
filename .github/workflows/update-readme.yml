@@ -29,12 +29,6 @@ jobs:
       run: |
         python fetch_avatar.py
 
-    - name: Run generate_image.py
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        python generate_image.py
-
     - name: Commit and push changes
       run: |
         git config --global user.email 'deepeshvcd6273@gmail.com'
