@@ -21,9 +21,9 @@ jobs:
           issue-message: |
             Hello! 👋
             Thanks for interacting with this issue. Your contributions are appreciated.
-            Expect a reply or acknowledgment soon!
+            You will recive a reply or acknowledgment soon!
           pr-message: |
             Hi there! 🎉
             Thanks for working on this pull request. Your efforts are valued.
-            Expect a review or feedback soon!
+            The Organization admins will review the changes and you will revice a feedback soon!
           commit-message: "Added greetings and acknowledgments for issue and pull request interactions"
