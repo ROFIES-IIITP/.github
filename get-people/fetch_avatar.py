@@ -1,5 +1,5 @@
-import requests
 import os
+import requests
 from PIL import Image
 from io import BytesIO
 
@@ -67,4 +67,5 @@ for avatar_url in avatar_urls:
 
 # Save the image
 image.save("members.png")
-print(f"Composite image of {num_members} avatars saved as members.png.")
+print(f"Composite image of {num_members} avatars saved as members.png.\n")
+input("Press Enter to exit...")
