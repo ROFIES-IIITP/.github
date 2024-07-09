@@ -2,12 +2,16 @@ import os
 import requests
 from PIL import Image
 from io import BytesIO
+from dotenv import load_dotenv
+
 
 # GitHub organization name
 org_name = "ROFIES-IIITP"
 api_url = f"https://api.github.com/orgs/{org_name}/members"
 
+
 # GitHub Personal Access Token (PAT) for authentication
+load_dotenv()
 github_token = os.getenv("GITHUB_TOKEN")
 
 if not github_token:
