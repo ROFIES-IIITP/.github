@@ -2,6 +2,7 @@ import os
 import requests
 from PIL import Image
 from io import BytesIO
+from colorama import Fore
 from dotenv import load_dotenv
 
 
@@ -15,7 +16,7 @@ load_dotenv()
 github_token = os.getenv("GITHUB_TOKEN")
 
 if not github_token:
-    print("GITHUB_TOKEN environment variable not set. Please set it and try again.")
+    print(Fore.LIGHTRED_EX + "GITHUB_TOKEN environment variable not set. Please set it and try again." + Fore.RESET)
     exit(1)
 
 # Headers with PAT for authentication
@@ -37,9 +38,9 @@ if response.status_code == 200:
         for url in avatar_urls:
             file.write(url + "\n")
 
-    print("Avatar URLs saved to avatar_urls.txt.")
+    print(Fore.GREEN + "Avatar URLs saved to avatar_urls.txt." + Fore.RESET)
 else:
-    print(f"Failed to fetch members. Status code: {response.status_code}")
+    print(Fore.RED + f"Failed to fetch members. Status code: {response.status_code}" + Fore.RESET)
     print(response.text)
     exit(1)
 
@@ -71,5 +72,5 @@ for avatar_url in avatar_urls:
 
 # Save the image
 image.save("members.png")
-print(f"Composite image of {num_members} avatars saved as members.png.\n")
-input("Press Enter to exit...")
+print(Fore.GREEN + f"\nComposite image of {num_members} avatars saved as members.png.\n" + Fore.RESET)
+input(Fore.MAGENTA + "Press Enter to exit..." + Fore.RESET)
