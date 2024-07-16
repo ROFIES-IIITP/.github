@@ -34,7 +34,7 @@ if response.status_code == 200:
     avatar_urls = [member["avatar_url"] for member in members]
 
     # Save the avatar URLs to a file for further use
-    with open("avatar_urls.txt", "w") as file:
+    with open("./get-people/avatar_urls.txt", "w") as file:
         for url in avatar_urls:
             file.write(url + "\n")
 
@@ -71,6 +71,6 @@ for avatar_url in avatar_urls:
         y_offset += AVATAR_SIZE
 
 # Save the image
-image.save("members.png")
+image.save("./get-people/members.png")
 print(Fore.GREEN + f"\nComposite image of {num_members} avatars saved as members.png.\n" + Fore.RESET)
 input(Fore.MAGENTA + "Press Enter to exit..." + Fore.RESET)
