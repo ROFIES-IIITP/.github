@@ -57,6 +57,7 @@ Thank you for your interest in ROFIES! Together, we can make a difference in the
       <td align="center" valign="top" width="14.28%"><a href="https://my-super-awesome-portfolio.vercel.app/"><img src="https://avatars.githubusercontent.com/u/123854877?v=4?s=100" width="100px;" alt="Krish Koria"/><br /><sub><b>Krish Koria</b></sub></a><br /><a href="https://github.com/ROFIES-IIITP/.github/commits?author=KrishKoria" title="Code">💻</a> <a href="#mentoring-KrishKoria" title="Mentoring">🧑‍🏫</a> <a href="#talk-KrishKoria" title="Talks">📢</a> <a href="#eventOrganizing-KrishKoria" title="Event Organizing">📋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/why-aditi"><img src="https://avatars.githubusercontent.com/u/130339327?v=4?s=100" width="100px;" alt="Aditi Kala"/><br /><sub><b>Aditi Kala</b></sub></a><br /><a href="#talk-why-aditi" title="Talks">📢</a> <a href="#design-why-aditi" title="Design">🎨</a> <a href="#eventOrganizing-why-aditi" title="Event Organizing">📋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aman-mania"><img src="https://avatars.githubusercontent.com/u/123955329?v=4?s=100" width="100px;" alt="Aman Biswakarma"/><br /><sub><b>Aman Biswakarma</b></sub></a><br /><a href="#eventOrganizing-Aman-mania" title="Event Organizing">📋</a> <a href="#fundingFinding-Aman-mania" title="Funding Finding">🔍</a> <a href="#ideas-Aman-mania" title="Ideas, Planning, & Feedback">🤔</a> <a href="#talk-Aman-mania" title="Talks">📢</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Codeguruu03"><img src="https://avatars.githubusercontent.com/u/123642608?v=4?s=100" width="100px;" alt="Naman Goyal"/><br /><sub><b>Naman Goyal</b></sub></a><br /><a href="https://github.com/ROFIES-IIITP/.github/commits?author=Codeguruu03" title="Documentation">📖</a> <a href="#promotion-Codeguruu03" title="Promotion">📣</a> <a href="#tutorial-Codeguruu03" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
 </table>
@@ -67,11 +68,3 @@ Thank you for your interest in ROFIES! Together, we can make a difference in the
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
-
-## *<center>All Members</center>*
-
-<!-- MEMBERS-START -->
-<center>
-<img src="get-people/members.png" alt="All Members"/>
-</center>
-<!-- MEMBERS-END -->
