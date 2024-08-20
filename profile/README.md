@@ -67,11 +67,3 @@ Thank you for your interest in ROFIES! Together, we can make a difference in the
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
-
-## *<center>All Members</center>*
-
-<!-- MEMBERS-START -->
-<center>
-<img src="../get-people/members.png" alt="All Members"/>
-</center>
-<!-- MEMBERS-END -->
