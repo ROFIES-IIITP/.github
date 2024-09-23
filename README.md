@@ -45,7 +45,7 @@ Thank you for your interest in ROFIES! Together, we can make a difference in the
 
 # **<center>✨Our Community ✨</center>**
 
-## *<center>Core Members</center>*
+## ***<center>Core Members</center>***
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -68,3 +68,14 @@ Thank you for your interest in ROFIES! Together, we can make a difference in the
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
+## *<center>Arduino Team</center>*
+<a href="https://github.com/ROFIES-IIITP/Arduino/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Arduino"/> </a>
+
+## *<center>Raspberry Pi Team</center>*
+<a href="https://github.com/ROFIES-IIITP/Raspberry-Pi/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Raspberry-Pi"/> </a>
+
+## *<center>Jetson Team</center>*
+<a href="https://github.com/ROFIES-IIITP/Jetson-Nano/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Jetson-Nano"/> </a>
+
+## *<center>Autonomous Robotics Innovators</center>*
+<a href="https://github.com/ROFIES-IIITP/Robot-Showcase/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Robot-Showcase"/> </a>
