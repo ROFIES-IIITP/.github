@@ -77,5 +77,5 @@ Thank you for your interest in ROFIES! Together, we can make a difference in the
 ## *<center>[Jetson Team](https://github.com/ROFIES-IIITP/Jetson-Nano)</center>*
 <a href="https://github.com/ROFIES-IIITP/Jetson-Nano/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Jetson-Nano"/> </a>
 
-## *<center>Autonomous Robotics Innovators</center>*
+## *<center>[Autonomous Robotics Innovators](https://github.com/ROFIES-IIITP/Robot-Showcase)</center>*
 <a href="https://github.com/ROFIES-IIITP/Robot-Showcase/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Robot-Showcase"/> </a>
