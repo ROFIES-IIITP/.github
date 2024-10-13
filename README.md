@@ -74,7 +74,7 @@ Thank you for your interest in ROFIES! Together, we can make a difference in the
 ## *<center>[Raspberry Pi Team](https://github.com/ROFIES-IIITP/Raspberry-Pi)</center>*
 <a href="https://github.com/ROFIES-IIITP/Raspberry-Pi/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Raspberry-Pi"/> </a>
 
-## *<center>Jetson Team</center>*
+## *<center>[Jetson Team](https://github.com/ROFIES-IIITP/Jetson-Nano)</center>*
 <a href="https://github.com/ROFIES-IIITP/Jetson-Nano/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Jetson-Nano"/> </a>
 
 ## *<center>Autonomous Robotics Innovators</center>*
