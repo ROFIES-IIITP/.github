@@ -36,6 +36,7 @@ We welcome contributions from everyone! Before contributing to our projects, ple
 If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us:
 
 - **Email**: [rofies@iiitp.ac.in](mailto:rofies@iiitp.ac.in)
+- **Discord**: [Join our Discord server](https://discord.com/invite/qyKa8FP37c)
 - **Instagram** : [Connect with Us](https://www.instagram.com/rofies_iiitp)
 
 Thank you for your interest in ROFIES! Together, we can make a difference in the world of robotics and engineering. 🌍💡
@@ -44,7 +45,7 @@ Thank you for your interest in ROFIES! Together, we can make a difference in the
 
 # **<center>✨Our Community ✨</center>**
 
-## *<center>Core Members</center>*
+## ***<center>Core Members</center>***
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -67,3 +68,14 @@ Thank you for your interest in ROFIES! Together, we can make a difference in the
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
+## *<center>[Arduino Team](https://github.com/ROFIES-IIITP/Arduino)</center>*
+<a href="https://github.com/ROFIES-IIITP/Arduino/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Arduino"/> </a>
+
+## *<center>[Raspberry Pi Team](https://github.com/ROFIES-IIITP/Raspberry-Pi)</center>*
+<a href="https://github.com/ROFIES-IIITP/Raspberry-Pi/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Raspberry-Pi"/> </a>
+
+## *<center>[Jetson Team](https://github.com/ROFIES-IIITP/Jetson-Nano)</center>*
+<a href="https://github.com/ROFIES-IIITP/Jetson-Nano/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Jetson-Nano"/> </a>
+
+## *<center>[Autonomous Robotics Innovators](https://github.com/ROFIES-IIITP/Robot-Showcase)</center>*
+<a href="https://github.com/ROFIES-IIITP/Robot-Showcase/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Robot-Showcase"/> </a>
