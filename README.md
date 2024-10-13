@@ -71,7 +71,7 @@ Thank you for your interest in ROFIES! Together, we can make a difference in the
 ## *<center>[Arduino Team](https://github.com/ROFIES-IIITP/Arduino)</center>*
 <a href="https://github.com/ROFIES-IIITP/Arduino/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Arduino"/> </a>
 
-## *<center>Raspberry Pi Team</center>*
+## *<center>[Raspberry Pi Team](https://github.com/ROFIES-IIITP/Raspberry-Pi)</center>*
 <a href="https://github.com/ROFIES-IIITP/Raspberry-Pi/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Raspberry-Pi"/> </a>
 
 ## *<center>Jetson Team</center>*
