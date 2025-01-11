@@ -28,7 +28,7 @@ git checkout -b feature/new-feature
 
 6. **Commit Changes**: Commit your changes with a descriptive commit message:
 ```
-git push origin feature/new-feature
+git commit -m "Add a descriptive commit message here"
 ```
 
 7. **Push Changes**: Push your changes to your forked repository:
