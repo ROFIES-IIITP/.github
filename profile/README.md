@@ -69,13 +69,21 @@ Thank you for your interest in ROFIES! Together, we can make a difference in the
 
 ---
 ## *<center>[Arduino Team](https://github.com/ROFIES-IIITP/Arduino)</center>*
-<a href="https://github.com/ROFIES-IIITP/Arduino/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Arduino"/> </a>
+<a href="https://github.com/ROFIES-IIITP/Arduino/graphs/contributors"> 
+  <img src="https://contributors-img.web.app/image?repo=ROFIES-IIITP/Arduino"/> 
+</a>
 
 ## *<center>[Raspberry Pi Team](https://github.com/ROFIES-IIITP/Raspberry-Pi)</center>*
-<a href="https://github.com/ROFIES-IIITP/Raspberry-Pi/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Raspberry-Pi"/> </a>
+<a href="https://github.com/ROFIES-IIITP/Raspberry-Pi/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=ROFIES-IIITP/Raspberry-Pi"/> 
+</a>
 
 ## *<center>[Jetson Team](https://github.com/ROFIES-IIITP/Jetson-Nano)</center>*
-<a href="https://github.com/ROFIES-IIITP/Jetson-Nano/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Jetson-Nano"/> </a>
+<a href="https://github.com/ROFIES-IIITP/Jetson-Nano/graphs/contributors"> 
+  <img src="https://contributors-img.web.app/image?repo=ROFIES-IIITP/Jetson-Nano"/> 
+</a>
 
 ## *<center>[Autonomous Robotics Innovators](https://github.com/ROFIES-IIITP/Robot-Showcase)</center>*
-<a href="https://github.com/ROFIES-IIITP/Robot-Showcase/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Robot-Showcase"/> </a>
+<a href="https://github.com/ROFIES-IIITP/Robot-Showcase/graphs/contributors"> 
+  <img src="https://contributors-img.web.app/image?repo=ROFIES-IIITP/Robot-Showcase"/>  
+</a>
